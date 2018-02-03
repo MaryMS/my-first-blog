@@ -25,7 +25,7 @@ SECRET_KEY = 'ae!4m2jg#8kuxe72u7dmneq7=qmz^@o=4h3tl%-m*rpmal^fvu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'mariadjango.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'maryms.pythonanywhere.com']
 
 
 # Application definition
